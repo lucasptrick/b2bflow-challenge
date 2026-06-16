@@ -88,7 +88,7 @@ def main():
         if sent:
             success_count += 1
 
-    logger.info(f"✅ Envio concluído: {success_count}/{len(contacts)} mensagens enviadas.")
+    logger.info(f"> Envio concluído: {success_count}/{len(contacts)} mensagens enviadas.")
 
 
 if __name__ == "__main__":
