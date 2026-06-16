@@ -1,4 +1,4 @@
-# b2bflow Challenge — Estágio Python
+# b2bflow Challenge
 
 Projeto que lê contatos cadastrados no **Supabase** e envia mensagens personalizadas via **Z-API (WhatsApp)**.
 
