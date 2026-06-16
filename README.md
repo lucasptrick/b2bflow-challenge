@@ -77,7 +77,7 @@ python main.py
 2025-01-01 10:00:02 [INFO] ✅ Mensagem enviada para João (5511999990001)
 2025-01-01 10:00:03 [INFO] ✅ Mensagem enviada para Maria (5511999990002)
 2025-01-01 10:00:04 [INFO] ✅ Mensagem enviada para Carlos (5511999990003)
-2025-01-01 10:00:04 [INFO] ✅ Envio concluído: 3/3 mensagens enviadas.
+2025-01-01 10:00:04 [INFO] > Envio concluído: 3/3 mensagens enviadas.
 ```
 
 ---
