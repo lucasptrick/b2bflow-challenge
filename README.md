@@ -80,6 +80,9 @@ python main.py
 2025-01-01 10:00:04 [INFO] > Envio concluído: 3/3 mensagens enviadas.
 ```
 
+### Exemplo esperado no WhatsApp
+![Screenshot](assets/Exemplo01.jpg)
+
 ---
 
 ## 🗂️ Estrutura do projeto
